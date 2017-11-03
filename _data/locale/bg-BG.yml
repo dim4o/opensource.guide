@@ -3,22 +3,22 @@ nav:
   contribute: Contribute
 
 index:
-  lead: Open source software is made by people just like you. Learn how to launch and grow your project.
-  opensourcefriday: It's Friday! Invest a few hours contributing to the software you use and love
+  lead: Софтуерът с отворен код се създава от хора, като теб. Научете как да стартирате и разширите проекта си.
+  opensourcefriday: Петък е! Инвестирайте няколко часа, допринасяйки за софтуера, който използвате и обичате
 
 article:
   table_of_contents: Table of Contents
 
 footer:
   contribute:
-    heading: Contribute
-    description: Want to make a suggestion? This content is open source. Help us improve it.
-    button: Contribute
+    heading: Допринеси
+    description: Искате да направите предложение? Това съдържание е с отворен код. Помогнете ни да го подобрим.
+    button: Допринеси
   subscribe:
-    heading: Stay in touch
-    description: Be the first to hear about GitHub's latest open source tips and resources.
+    heading: Бъдете в течение
+    description: Бъдете първите, които ще чуят най-новите съвети и ресурси на GitHub за отворен код.
     label: Email Address
-    button: Subscribe
+    button: Абонирай се
   byline:
     # [code], [love], and [github] will be replaced by octicons
     format: "[code] with [love] by [github] and [friends]"
