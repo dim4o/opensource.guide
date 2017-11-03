@@ -1,15 +1,15 @@
 ---
 locale: bg-BG
-title: How to Contribute to Open Source
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
+title: Как да допринесем за отворения код
+description: Искате да допринесете за отворения код? Ръководство за участие в прокти с отворен код, за новобранци и за ветерани.
 class: contribute
 toc:
-  why-contribute-to-open-source: "Why contribute to open source?"
-  what-it-means-to-contribute: "What it means to contribute"
-  orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
-  finding-a-project-to-contribute-to: "Finding a project to contribute to"
-  how-to-submit-a-contribution: "How to submit a contribution"
-  what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
+  why-contribute-to-open-source: "Как да допринеса за отворения код?"
+  what-it-means-to-contribute: "Какво означава принос"
+  orienting-yourself-to-a-new-project: "Ориентация към нов проект"
+  finding-a-project-to-contribute-to: "Намиране на проект, в който да участвате"
+  how-to-submit-a-contribution: "Как да дадете своя принос"
+  what-happens-after-you-submit-a-contribution: "Какво се случва, след като допринесете"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
