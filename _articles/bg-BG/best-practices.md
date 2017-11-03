@@ -1,5 +1,5 @@
 ---
-locale: en-US
+locale: bg-BG
 title: Best Practices for Maintainers
 description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
 class: best-practices
